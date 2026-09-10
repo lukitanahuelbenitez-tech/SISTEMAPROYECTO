@@ -23,7 +23,7 @@ void cargarDatos(EntidadProyecto* ptr);
 int main() {
 
     // Inicialización de la entidad
-    EntidadProyecto miEntidad = {0, "Vacio - [TU NOMBRE Y APELLIDO]", 0.0f};
+    EntidadProyecto miEntidad = {0, "Vacio - Lucas Benitez", 0.0f};
 
     cout << "=====================================================" << endl;
     cout << " MODELADO STRUCT - ESTUDIANTE: Lucas Benitez " << endl;
